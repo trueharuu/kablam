@@ -1,5 +1,5 @@
 [package]
-name = "rlox"
+name = "everest"
 version = "0.1.0"
 authors = ["radogost"]
 edition = "2018"
